@@ -1,10 +1,5 @@
 # EMNLP Assignment 1:Log-Linear Model for Text Classification
 
-Sishuo Chen 
-
----
-
-[TOC]
 
 ## Introduction
 
