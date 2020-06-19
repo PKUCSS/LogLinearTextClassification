@@ -213,7 +213,6 @@ If you run the `run.sh` script,hyper parameters will be 0.01 for `lr` ,`0` for l
 
 ![](./Figure_1.png)
 
-![image-20200321011915053](C:\Users\css\AppData\Roaming\Typora\typora-user-images\image-20200321011915053.png)
 
 ### Hyper parameter tuning
 
